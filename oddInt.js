@@ -1,5 +1,5 @@
 function oddInt(nums) {
-  return 7;
+  return nums[0];
 }
 
 module.exports = oddInt;
